@@ -1,0 +1,37 @@
+04-Mar-23 00:39:26 - werkzeug - INFO -  * Detected change in 'c:\\Data Analyzer\\main.py', reloading
+04-Mar-23 00:39:48 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : root,Password : somnath
+04-Mar-23 00:39:48 - root - INFO - Trying to connect database
+04-Mar-23 00:39:48 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:39:48] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:40:43 - werkzeug - INFO -  * Detected change in 'c:\\Data Analyzer\\main.py', reloading
+04-Mar-23 00:40:52 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : root,Password : somnath
+04-Mar-23 00:40:52 - root - INFO - Trying to connect database
+04-Mar-23 00:40:52 - root - INFO - Database Connected Successfully ! 
+ <mysql.connector.connection_cext.CMySQLConnection object at 0x0000025984CF7AD0>
+04-Mar-23 00:40:52 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:40:52] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:41:39 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:41:39] "GET / HTTP/1.1" 200 -
+04-Mar-23 00:41:44 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : root,Password : fghj
+04-Mar-23 00:41:44 - root - INFO - Trying to connect database
+04-Mar-23 00:41:44 - root - INFO - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+04-Mar-23 00:41:44 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:41:44] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:41:53 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:41:53] "GET / HTTP/1.1" 200 -
+04-Mar-23 00:42:10 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : somnath,Password : root
+04-Mar-23 00:42:10 - root - INFO - Trying to connect database
+04-Mar-23 00:42:10 - root - INFO - 1045 (28000): Access denied for user 'somnath'@'localhost' (using password: YES)
+04-Mar-23 00:42:10 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:10] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:42:11 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:11] "GET / HTTP/1.1" 200 -
+04-Mar-23 00:42:16 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : somnath,Password : 
+04-Mar-23 00:42:16 - root - INFO - Trying to connect database
+04-Mar-23 00:42:16 - root - INFO - 1045 (28000): Access denied for user 'somnath'@'localhost' (using password: NO)
+04-Mar-23 00:42:16 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:16] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:42:17 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:17] "GET / HTTP/1.1" 200 -
+04-Mar-23 00:42:21 - root - INFO - Database Credentials 
+ Hostname : localhost,Username : somnath,Password : 
+04-Mar-23 00:42:21 - root - INFO - Trying to connect database
+04-Mar-23 00:42:21 - root - INFO - 1045 (28000): Access denied for user 'somnath'@'localhost' (using password: NO)
+04-Mar-23 00:42:21 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:21] "POST / HTTP/1.1" 200 -
+04-Mar-23 00:42:24 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 00:42:24] "GET / HTTP/1.1" 200 -
