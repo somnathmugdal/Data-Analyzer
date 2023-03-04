@@ -4,5 +4,8 @@
 
 #### Used Tools: Python , Logging , Flask
 
+#### pip install mysql.connector, pip install flask
+
 #### To test database connectivity run dbconnect.py 
-### To run the Flask App run main.py
+
+#### To run the Flask App run main.py
